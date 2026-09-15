@@ -28,5 +28,12 @@
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoRSLL&theme=tokyonight&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoRSLL&theme=dark" alt="Resumo do Perfil" />
+</p>
+
+<br/>
+
+<p align="left">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoRSLL&theme=dark" alt="Estatísticas Gerais" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoRSLL&theme=dark" alt="Linguagens mais usadas" />
 </p>
